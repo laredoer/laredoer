@@ -21,3 +21,4 @@
 - [async](https://github.com/freshcn/async) - 通过golang的goruntine来提供一种异步处理程序的能力。
 - [fluentbit_docs](https://github.com/hulining/fluentbit_docs) - Fluent Bit 中文文档。
 - [postgresql-parser](https://github.com/auxten/postgresql-parser) - PostgreSQL style Parser splitted from CockroachDB.
+- [appstore-notifications-go](https://github.com/izniburak/appstore-notifications-go) - App Store Server Notifications in Golang.
